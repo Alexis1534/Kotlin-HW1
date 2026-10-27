@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Kotlin-HW1</string>
+    <string name="add_item">Добавить квадрат</string>
 </resources>
